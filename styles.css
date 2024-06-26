@@ -197,3 +197,9 @@ hr {
         font-size: 4.5rem;
     }
 }
+
+@media only screen and (max-width: 300px){
+    .author, .social-icons{
+        display: block;
+    } 
+}
