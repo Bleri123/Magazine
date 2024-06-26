@@ -200,6 +200,7 @@ hr {
 
 @media only screen and (max-width: 300px){
     .author, .social-icons{
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
     } 
 }
